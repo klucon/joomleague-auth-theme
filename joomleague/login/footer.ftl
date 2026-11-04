@@ -1,0 +1,3 @@
+<#macro content>
+<div class="jl-login-footer"><a href="https://joomleague.eu/" target="_blank" rel="noopener noreferrer">JoomLeague</a> · <a href="https://support.joomleague.eu/" target="_blank" rel="noopener noreferrer">Support</a><p>JoomLeague and this site are not affiliated with or endorsed by The Joomla! Project™.</p><p>Any products and services provided through this site are not supported or warrantied by The Joomla! Project or Open Source Matters, Inc.</p><p>Use of the Joomla!® name, symbol, logo and related trademarks is permitted under a limited license granted by Open Source Matters, Inc.</p></div>
+</#macro>

@@ -1,0 +1,4 @@
+:root{--pf-v5-global--primary-color--100:#0062a9;--pf-v5-global--primary-color--200:#004d86}
+.pf-v5-c-masthead__brand img,.pf-v5-c-brand{max-width:208px;max-height:65px;object-fit:contain}
+.jl-account-legal{font:12px/1.7 system-ui,sans-serif;color:#53626d;padding:20px 32px;background:#f5f8fa;border-top:1px solid #dce3e7}.jl-account-legal p{margin:4px 0}
+@media(prefers-color-scheme:dark){.jl-account-legal{color:#b4bec5;background:#181c1f;border-color:#3a4147}}
